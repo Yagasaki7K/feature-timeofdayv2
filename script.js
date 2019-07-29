@@ -55,12 +55,12 @@ window.setInterval(function carregar() {
 
     if (hora >= 6 && hora < 12) {
         // BOM DIA!
-        document.body.style.backgroundImage = "url('img/morning.png')";
+        document.body.style.backgroundImage = "url('img/Morning.png')";
     } else if (hora >= 12 && hora < 18) {
         // BOA TARDE!
-        document.body.style.backgroundImage = "url('img/day.png')";
+        document.body.style.backgroundImage = "url('img/Day.png')";
     } else {
         // BOA NOITE
-        document.body.style.backgroundImage = "url('img/night.png')";
+        document.body.style.backgroundImage = "url('img/Night.png')";
     }
 })
