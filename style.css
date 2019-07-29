@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 800%;
+    margin-top: 12%;
+}
+
+footer {
+    font-style: italic;
+    color: white;
+    margin-top: -5%;
+}
